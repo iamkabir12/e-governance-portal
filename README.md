@@ -1,47 +1,79 @@
-# 🌦️ Weather App
+# 🏛️ E-Governance Portal
 
-A modern Weather Application built using Flutter/Vite (change according to your project).
+A modern full-stack E-Governance Portal that enables citizens to access government services digitally through a secure and user-friendly web application.
 
-## Features
+## ✨ Features
 
-- 🌍 Search weather by city
-- 🌡️ Current temperature
-- 💨 Wind Speed
-- 💧 Humidity
-- 🌅 Sunrise & Sunset
-- 📱 Responsive UI
+- Citizen Registration & Login
+- Secure Authentication
+- Online Government Services
+- User Dashboard
+- Responsive Design
+- Fast and Modern UI
+- Backend API Integration
 
-## Screenshots
+## 🛠️ Tech Stack
 
-### Home Screen
+### Frontend
+- React.js
+- Vite
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+## 📸 Screenshots
+
+### Home Page
 
 ![Home](./screenshots/home.png)
 
-### Search
+### Login Page
 
-![Search](./screenshots/search.png)
+![Login](./screenshots/login.png)
 
-### Weather Details
+### Citizen Dashboard
 
-![Weather](./screenshots/weather.png)
+![Dashboard](./screenshots/citizen-dashboard.png)
 
-## Tech Stack
+### Government Services
 
-- Flutter / React + Vite
-- OpenWeather API
+![Services](./screenshots/services.png)
 
-## Installation
+### Admin Dashboard
+
+![Admin](./screenshots/admin-dashboard.png)
+
+## 📂 Project Structure
+
+```text
+backend/
+public/
+src/
+screenshots/
+README.md
+```
+
+## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/weather_app.git
+git clone https://github.com/yourusername/e-governance-portal.git
 
-cd weather_app
+cd e-governance-portal
 
 npm install
 
 npm run dev
 ```
 
-## Author
+## 👨‍💻 Author
 
-Kabir Pandey
+**Kabir Pandey**
+
+B.Tech Computer Science & Engineering
